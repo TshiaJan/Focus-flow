@@ -35,4 +35,4 @@ Focus Flow ("we", "our", or "the App") is committed to protecting your privacy. 
 ### 8. Contact Us
 For questions, support, or privacy feedback regarding Focus Flow, contact:
 - **Developer:** Tshiamo Jantjie
-- **Email:** tshiajan@gmail.com
+- **Email:** janairedev@gmail.com
